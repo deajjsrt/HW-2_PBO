@@ -114,3 +114,7 @@ d.	Keluar dari Aplikasi:
 2. Sistem mengonfirmasi keinginan pengguna untuk keluar dan melakukan proses logout.
 
 3. Pengguna dikeluarkan dari sesi mereka dan diarahkan ke halaman login jika ingin mengakses kembali aplikasi
+
+3. Use Case Diagram
+   ![WhatsApp Image 2024-04-26 at 23 09 52](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/d025cb31-176f-4496-aee9-eb5b426b13ee)
+
