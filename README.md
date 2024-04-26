@@ -66,9 +66,11 @@
               3. Pengguna dikeluarkan dari sesi mereka dan diarahkan ke halaman login jika ingin mengakses kembali aplikasi
 
     2. Use Case Diagram
-    ![image](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/2353db49-20b1-4784-b18e-2b7ac91c015c)
+    ![WhatsApp Image 2024-04-26 at 23 09 52](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/8e4bfdf2-380a-407e-bfd7-ecd2df53fa99)
+
 
     3. Diagram Class
-    ![image](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/daa3252c-7be3-4ef6-ba1f-27264645fccb)
+    ![WhatsApp Image 2024-04-26 at 23 09 51](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/d827eb32-cba9-4cc5-9213-a3df73643be1)
+
 
 
