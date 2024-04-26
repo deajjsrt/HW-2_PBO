@@ -3,7 +3,7 @@
       Requirement Analysis untuk Ukrida Sisfo
 
 
-1.	Otentikasi dan Otorisasi Pengguna:
+A.	Otentikasi dan Otorisasi Pengguna:
 
 • Sistem harus dapat menyediakan fungsional login yang aman untuk mahasiswa, dosen, dan staf, untuk memastikan bahwa hanya pengguna yang berwenang yang dapat mengakses fitur tertentu berdasarkan peran mereka.
 
@@ -44,7 +44,7 @@
 • Sistem harus menyediakan akses ke layanan dukungan mahasiswa, termasuk bimbingan akademik, konseling, dan bimbingan karir.
 
 
-2.	Usecase stories
+B.	Usecase stories
 
 Judul: Manajemen Data Mahasiswa dalam Sistem Informasi Akademik UKRIDA
 
@@ -116,6 +116,6 @@ d.	Keluar dari Aplikasi:
 
 3. Pengguna dikeluarkan dari sesi mereka dan diarahkan ke halaman login jika ingin mengakses kembali aplikasi
 
-3. Use Case Diagram
+C. Use Case Diagram
    ![WhatsApp Image 2024-04-26 at 23 09 52](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/d025cb31-176f-4496-aee9-eb5b426b13ee)
 
