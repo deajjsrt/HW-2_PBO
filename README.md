@@ -116,6 +116,10 @@ d.	Keluar dari Aplikasi:
 
 3. Pengguna dikeluarkan dari sesi mereka dan diarahkan ke halaman login jika ingin mengakses kembali aplikasi
 
-C. Use Case Diagram
+3. Use Case Diagram
    ![WhatsApp Image 2024-04-26 at 23 09 52](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/d025cb31-176f-4496-aee9-eb5b426b13ee)
+
+4. Diagram Class
+   ![WhatsApp Image 2024-04-26 at 23 09 51](https://github.com/deajjsrt/HW-2_PBO/assets/151018005/2e197e44-bea6-49ec-b8a7-3e9a799ace3f)
+
 
