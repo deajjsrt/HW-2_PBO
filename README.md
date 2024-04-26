@@ -3,9 +3,8 @@
       Requirement Analysis untuk Ukrida Sisfo
     	
         1.	Otentikasi dan Otorisasi Pengguna:
-           
-             • Sistem harus dapat menyediakan fungsional login yang aman untuk mahasiswa, dosen, dan staf, untuk memastikan bahwa hanya                  pengguna yang berwenang yang dapat mengakses fitur tertentu berdasarkan peran mereka.
-             • Prosesnya termasuk manajemen kata sandi, dan kontrol akses berbasis peran. 
+           • Sistem harus dapat menyediakan fungsional login yang aman untuk mahasiswa, dosen, dan staf, untuk memastikan bahwa hanya                  pengguna yang berwenang yang dapat mengakses fitur tertentu berdasarkan peran mereka.
+            • Prosesnya termasuk manajemen kata sandi, dan kontrol akses berbasis peran. 
         3.	Pendaftaran:
              • Sistem harus dapat memfasilitasi proses pendaftaran bagi mahasiswa baru, untuk memungkinkan mereka memilih mata kuliah,                   melihat bagian yang tersedia, dan mendaftar di kelas.
              • Sistem juga harus menangani prasyarat, daftar tunggu, dan tenggat waktu pendaftaran.
