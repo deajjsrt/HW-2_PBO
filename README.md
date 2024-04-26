@@ -29,7 +29,7 @@
 
       Deskripsi Singkat:
 
-      Aplikasi Manajemen Data Mahasiswa dalam Sistem Informasi Akademik UKRIDA memungkinkan pengguna untuk melakukan operasi dasar        terkait data mahasiswa, termasuk pendaftaran mahasiswa baru, pembaruan profil mahasiswa, penjadwalan bimbingan akademik, dan      pencatatan absensi mahasiswa.
+      Aplikasi Manajemen Data Mahasiswa dalam Sistem Informasi Akademik UKRIDA memungkinkan pengguna untuk melakukan operasi dasar terkait data mahasiswa, termasuk pendaftaran mahasiswa baru, pembaruan profil mahasiswa, penjadwalan bimbingan akademik, dan      pencatatan absensi mahasiswa.
 
       Use Case Story:
 
